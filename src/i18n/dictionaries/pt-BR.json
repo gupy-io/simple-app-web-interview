@@ -1,0 +1,39 @@
+{
+  "buttons": {
+    "apply": "Aplicar-se",
+    "cancel": "Cancelar",
+    "createAccount": "Criar conta",
+    "createJob": "Criar nova vaga",
+    "publish": "Publicar",
+    "signOut": "Sair"
+  },
+  "labels": {
+    "name": "Nome",
+    "email": "Email",
+    "emailAddress": "Endereço de email",
+    "job": "Vaga",
+    "password": "Senha",
+    "status": "Situação"
+  },
+  "links": {
+    "applications": "Aplicações",
+    "createAccount": "Criação de conta",
+    "createANewAccount": "Criação de uma nova conta",
+    "home": "Início",
+    "jobs": "Vagas",
+    "viewApplications": "Visualização de aplicações",
+    "viewCreatePublishApplyJobs": "Visualização, criação, publicação e aplicação de vagas"
+  },
+  "texts": {
+    "applicationDescribe": "Essa é a aplicação simples de exemplo implementando uma versão minimalista de uma plataforma de recrutamento e seleção.",
+    "applicationFlows": "Você pode estar realizando os seguintes fluxos:"
+  },
+  "titles": {
+    "app": "Recrutamento&Seleção",
+    "applicationsList": "Lista de aplicações",
+    "home": "Página principal da aplicação",
+    "jobsCreate": "Criar nova vaga",
+    "jobsList": "Lista de vagas",
+    "signUp": "Criação de conta"
+  }
+}

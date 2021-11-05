@@ -1,0 +1,39 @@
+{
+  "buttons": {
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "createAccount": "Create account",
+    "createJob": "Create a job",
+    "publish": "Publish",
+    "signOut": "Sign-out"
+  },
+  "labels": {
+    "name": "Name",
+    "email": "Email",
+    "emailAddress": "Email address",
+    "job": "Job",
+    "password": "Password",
+    "status": "Status"
+  },
+  "links": {
+    "applications": "Applications",
+    "createAccount": "Sign-up",
+    "createANewAccount": "Create a new account",
+    "home": "Home",
+    "jobs": "Jobs",
+    "viewApplications": "View applications",
+    "viewCreatePublishApplyJobs": "View, creae, publish and apply for jobs"
+  },
+  "texts": {
+    "applicationDescribe": "This is a simple application of example implementing a minimalist version of a recruitment and selection platform.",
+    "applicationFlows": "You can reaching the following things:"
+  },
+  "titles": {
+    "app": "Recruitment&Selection",
+    "applicationsList": "Applications list",
+    "home": "Application home",
+    "jobsCreate": "Create a new job",
+    "jobsList": "Jobs list",
+    "signUp": "Sign-up"
+  }
+}
