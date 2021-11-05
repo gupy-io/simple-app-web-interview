@@ -13,5 +13,5 @@ npm ci
 2. Execução da aplicação
 
 ```
-npm start
+npm run dev
 ```
